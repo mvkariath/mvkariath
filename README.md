@@ -51,8 +51,8 @@
   </a>
 </p>
 <div align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvk2803&show_icons=true&locale=en&layout=compact&theme=radical" alt="mvk2803" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mvk2803&show_icons=true&locale=en&theme=radical" alt="mvk2803"/>
-    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk2803&theme=radical" alt="mvk2803"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvk2803&show_icons=true&locale=en&layout=compact&theme=dark" alt="mvk2803" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mvk2803&show_icons=true&locale=en&theme=dark" alt="mvk2803"/>
+    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk2803&theme=dark" alt="mvk2803"/>
     
 </div>
