@@ -1,28 +1,58 @@
-<h1 align="center">Hi 👋, I'm Mathew V Kariath</h1>
-<h3 align="center">A passionate Web Developer</h3>
+![image](https://github.com/MVK2803/MVK/assets/90597530/d9829fa9-be60-4c81-b4f6-1a43d24d21c5)
+
+<div align="center">
+    
+   <p><strong> Frontend Tools and FrameWorks</strong></strong></p>
+</div>
 
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
-- 📫 How to reach me **mathewvinukariath@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mvkariath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MVK" height="30" width="40" /></a>
-<a href="https://instagram.com/_hackshaw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hackshaw_" height="30" width="40" /></a>
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,scss,bootstrap,tailwind,figma,ts,electron" />
+  </a>
 </p>
+<div align="center">
+    
+   <p><strong> Backend and  Database Tools </strong></strong></p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MVK2803&show_icons=true&locale=en" alt="MVK" /></p>
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,nodejs,flask,fastapi,mongo,mysql,postman" />
+  </a>
+</p>
+<div align="center">
+    
+   <p><strong> Programming Languages and Software Tools </strong></strong></p>
+</div>
+
+
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java,js,vscode,linux,vercel" />
+  </a>
+</p>
+<div align="center">
+    
+   <p><strong>Connect With Me </strong></strong></p>
+</div>
+
+
+<p align="center"> 
+  <a href="https://linkedin.com/mvkariath">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ <a href="https://instagram.com/mathew_v_kariath">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+ <a href="https://twitter.com/kariathV">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+<div align="center">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvk2803&show_icons=true&locale=en&layout=compact&theme=radical" alt="mvk2803" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mvk2803&show_icons=true&locale=en&theme=radical" alt="mvk2803"/>
+    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk2803&theme=radical" alt="mvk2803"/>
+    
+</div>
