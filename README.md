@@ -40,7 +40,7 @@
 
 
 <p align="center"> 
-  <a href="https://linkedin.com/mvkariath">
+  <a href="https://linkedin.com/in/mvkariath">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  <a href="https://instagram.com/mathew_v_kariath">
