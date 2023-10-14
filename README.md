@@ -56,9 +56,8 @@
    <p><strong>My Github Stats </strong></strong></p>
 </div>
 <div align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvk2803&show_icons=true&locale=en&layout=compact&theme=dark" alt="mvk2803" />
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mvk2803&show_icons=true&locale=en&theme=dark" alt="mvk2803"/>
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk2803&theme=dark" alt="mvk2803"/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVK2803)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVK2803&layout=donut-vertical" alt="top langs"  />
     
 </div>
