@@ -1,7 +1,7 @@
-![image](https://github.com/MVK2803/MVK/assets/90597530/d9829fa9-be60-4c81-b4f6-1a43d24d21c5)
-
+![MVKGit](https://github.com/MVK2803/MVK2803/assets/90597530/2bc421cf-5063-48d4-b487-60234d0132a8)
 <div align="center">
     
+
 
    <p><strong> Frontend Tools and FrameWorks</strong></strong></p>
 </div>
