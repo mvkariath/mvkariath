@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,html,css,scss,bootstrap,tailwind,figma,ts,electron" />
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,scss,bootstrap,tailwind,figma,ts,electron,nextjs" />
   </a>
 </p>
 <div align="center">
@@ -58,6 +58,6 @@
 <div align="center">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mvk2803&show_icons=true&locale=en&theme=dark" alt="mvk2803"/>
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk2803&theme=dark" alt="mvk2803"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVK2803&layout=donut-vertical" alt="top langs"  />
+   
     
 </div>
