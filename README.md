@@ -56,8 +56,19 @@
    <p><strong>My Github Stats </strong></strong></p>
 </div>
 <div align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=mvk2803&show_icons=true&locale=en&theme=dark" alt="mvk2803"/>
-    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk2803&theme=dark" alt="mvk2803"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MVK2803&theme=github_dark" alt="github streak" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MVK2803&theme=github_dark&show_icons=true" alt="Github status" align="center" />
+  <br />
+  <br />
+  <br />
+  <img src="https://stats.quine.sh/MVK2803/github?theme=dark" alt="stats" align="center" />
+  <img src="https://stats.quine.sh/MVK2803/stack-overflow?theme=dark" alt="stats" align="center" />
+  
+ 
    
-    
+  <br />
+  <br />
+  <br />
+  
 </div>
+<br />
