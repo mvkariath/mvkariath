@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,html,css,scss,bootstrap,tailwind,figma,ts,electron,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,scss,bootstrap,tailwind,figma,electron,nextjs,astro" />
   </a>
 </p>
 <div align="center">
@@ -33,7 +33,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,js,vscode,linux,vercel" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,vscode,linux,vercel" />
   </a>
 </p>
 <div align="center">
