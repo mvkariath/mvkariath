@@ -1,77 +1,40 @@
+# Hi, I'm Mathew V Kariath
 
-![Banner](https://github.com/user-attachments/assets/988ac0b2-66fb-4ee7-8808-83c7d7f34f3c)
+**Associate Software Engineer @ KeyValue Software Systems**
 
+I build enterprise-focused AI systems and backend services with a strong focus on reliable, production-ready implementations.
 
-<div align="center">
-    
+## About Me
 
+- Working on governance systems for enterprise-level AI agents.
+- Building SLM/LLM-powered workflows, RAG pipelines, and multi-agent solutions.
+- Interested in model training, fine-tuning, and alignment-oriented development.
+- Backend-focused with practical experience in FastAPI and PostgreSQL.
 
-   <p><strong> Frontend Tools and FrameWorks</strong></strong></p>
-</div>
+## Tech Focus
 
-
-<p align="center"> 
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,scss,bootstrap,tailwind,figma,electron,nextjs,astro" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,docker,linux,git,vscode" />
   </a>
 </p>
-<div align="center">
-    
-   <p><strong> Backend and  Database Tools </strong></strong></p>
-</div>
 
+## Core Skills
 
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,flask,fastapi,mongo,mysql,postman,firebase" />
-  </a>
+- Python, PyTorch, CUDA
+- Model training, fine-tuning, alignment
+- AI agent building, LangGraph, RAG workflows
+- Python backend development with FastAPI
+- Database design and integration with PostgreSQL
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/mvkariath](https://www.linkedin.com/in/mvkariath/)
+- Email: [mvkariath@gmail.com](mailto:mvkariath@gmail.com)
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MVK2803&show_icons=true&theme=github_dark" alt="Mathew's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MVK2803&theme=github_dark" alt="Mathew's GitHub streak" />
 </p>
-<div align="center">
-    
-   <p><strong> Programming Languages and Software Tools </strong></strong></p>
-</div>
-
-
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,vscode,linux,vercel" />
-  </a>
-</p>
-<div align="center">
-    
-   <p><strong>Connect With Me </strong></strong></p>
-</div>
-
-
-<p align="center"> 
-  <a href="https://linkedin.com/in/mvkariath">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- <a href="https://instagram.com/mathew_v_kariath">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
- <a href="https://twitter.com/kariathV">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
-<div align="center">
-    
-   <p><strong>My Github Stats </strong></strong></p>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MVK2803&theme=github_dark" alt="github streak" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MVK2803&theme=github_dark&show_icons=true" alt="Github status" align="center" />
-  <br />
-  <br />
-  <br />
-  <img src="https://stats.quine.sh/MVK2803/github?theme=dark" alt="stats" align="center" />
-  <img src="https://stats.quine.sh/MVK2803/stack-overflow?theme=dark" alt="stats" align="center" />
-  
- 
-   
-  <br />
-  <br />
-  <br />
-  
-</div>
-<br />
